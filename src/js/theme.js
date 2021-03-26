@@ -1,4 +1,4 @@
-import clientStorage from './clientStorage';
+import clientStorage from './client-storage';
 import refs from './refs';
 
 const Theme = {
