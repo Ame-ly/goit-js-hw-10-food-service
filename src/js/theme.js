@@ -38,3 +38,7 @@ function updateClass(oldClass, newClass) {
   refs.body.classList.remove(oldClass);
   refs.body.classList.add(newClass);
 }
+
+
+// const currentTheme = 'light';
+// const nextTheme = currentTheme === Theme.LIGHT ? Theme.DARK : Theme.LIGHT;
